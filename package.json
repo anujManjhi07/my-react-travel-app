@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anujManjhi07.github.io/my-react-travel-app",
+  "homepage": "https://anujManjhi07.github.io/my-react-travel-app/",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
